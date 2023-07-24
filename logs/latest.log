@@ -1,0 +1,165 @@
+[19:34:10] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:34:12] [ServerMain/INFO]: Loaded 7 recipes
+[19:34:12] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:34:12] [Server thread/INFO]: Loading properties
+[19:34:12] [Server thread/INFO]: This server is running Paper version git-Paper-84 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: c016e03)
+[19:34:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:34:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:34:13] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:34:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 3 worker threads, and gen parallelism of 3 threads
+[19:34:13] [Server thread/INFO]: Default game type: SURVIVAL
+[19:34:13] [Server thread/INFO]: Generating keypair
+[19:34:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:34:13] [Server thread/INFO]: Using default channel type
+[19:34:13] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[19:34:13] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[19:34:13] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b59-2278589)
+[19:34:14] [Server thread/INFO]: [floodgate] Took 539ms to boot Floodgate
+[19:34:14] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.43
+[19:34:14] [Server thread/INFO]: [ServerListPlus] Loading server plugin ServerListPlus v3.5.0
+[19:34:14] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.1.2-SNAPSHOT
+[19:34:14] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:34:14] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:34:14] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.3.92
+[19:34:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:34:14] [Server thread/INFO]: Preparing level "world"
+[19:34:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:34:15] [Server thread/INFO]: Time elapsed: 276 ms
+[19:34:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:34:15] [Server thread/INFO]: Time elapsed: 27 ms
+[19:34:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:34:15] [Server thread/INFO]: Time elapsed: 23 ms
+[19:34:15] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b59-2278589)
+[19:34:16] [Server thread/INFO]: [spark] Enabling spark v1.10.43
+[19:34:16] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[19:34:16] [Server thread/INFO]: [spark] Starting background profiler...
+[19:34:16] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[19:34:16] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.5.0
+[19:34:16] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[19:34:16] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[19:34:16] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[19:34:16] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: BukkitConf
+[19:34:16] [Server thread/WARN]: [ServerListPlus] [Core] Configuration is not enabled, nothing will be changed on the server! Please execute /slp enable to enable the configuration.
+[19:34:16] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[19:34:16] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[19:34:16] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.5.0 enabled.
+[19:34:16] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.1.2-SNAPSHOT
+[19:34:16] [Server thread/INFO]: [Chunky] Enabling Chunky v1.3.92
+[19:34:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:34:16] [Server thread/INFO]: [Geyser-Spigot] 
+[19:34:16] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.1.2-SNAPSHOT (git-master-966270d)
+[19:34:16] [Server thread/INFO]: [Geyser-Spigot] 
+[19:34:16] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:34:20] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[19:34:20] [Server thread/INFO]: [Geyser-Spigot] Done (3.863s)! Run /geyser help for help!
+[19:34:20] [Server thread/INFO]: Starting GS4 status listener
+[19:34:20] [Server thread/INFO]: Thread Query Listener started
+[19:34:20] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[19:34:20] [Server thread/INFO]: Running delayed init tasks
+[19:34:20] [Server thread/INFO]: Done (8.141s)! For help, type "help"
+[19:34:20] [Server thread/INFO]: Timings Reset
+[19:34:28] [User Authenticator #0/INFO]: UUID of player RuinedMango is 877a6738-9a5c-47b8-a781-dccb253ca725
+[19:34:28] [Server thread/INFO]: RuinedMango joined the game
+[19:34:28] [Server thread/INFO]: RuinedMango[/192.168.0.155:60926] logged in with entity id 192 at ([world]-257.29249032917465, 77.0, 427.65651921142074)
+[19:35:17] [Server thread/INFO]: RuinedMango was slain by Spider
+[19:46:47] [Server thread/INFO]: RuinedMango lost connection: Disconnected
+[19:46:47] [Server thread/INFO]: RuinedMango left the game
+[20:06:11] [User Authenticator #1/INFO]: UUID of player RuinedMango is 877a6738-9a5c-47b8-a781-dccb253ca725
+[20:06:11] [Server thread/INFO]: RuinedMango joined the game
+[20:06:11] [Server thread/INFO]: RuinedMango[/192.168.0.155:62123] logged in with entity id 1253 at ([world]-273.03518448545634, 70.0, 418.19497333081955)
+[20:06:48] [Server thread/INFO]: RuinedMango lost connection: Disconnected
+[20:06:48] [Server thread/INFO]: RuinedMango left the game
+[20:18:27] [User Authenticator #2/INFO]: UUID of player RuinedMango is 877a6738-9a5c-47b8-a781-dccb253ca725
+[20:18:28] [Server thread/INFO]: RuinedMango joined the game
+[20:18:28] [Server thread/INFO]: RuinedMango[/24.237.42.5:63197] logged in with entity id 1307 at ([world]-275.08030204020156, 70.0, 418.48750001192093)
+[20:29:53] [Server thread/INFO]: RuinedMango lost connection: Disconnected
+[20:29:53] [Server thread/INFO]: RuinedMango left the game
+[20:55:56] [User Authenticator #3/INFO]: UUID of player RuinedMango is 877a6738-9a5c-47b8-a781-dccb253ca725
+[20:55:56] [Server thread/INFO]: RuinedMango joined the game
+[20:55:56] [Server thread/INFO]: RuinedMango[/24.237.42.5:63402] logged in with entity id 2529 at ([world]-272.25793428182385, 70.5625, 417.9978674002812)
+[21:01:19] [Server thread/INFO]: RuinedMango lost connection: Disconnected
+[21:01:19] [Server thread/INFO]: RuinedMango left the game
+[21:16:32] [User Authenticator #4/INFO]: UUID of player ReddishFerret8 is 7fea1bc9-6e7f-449c-97c5-c9979c99f861
+[21:16:34] [Server thread/INFO]: ReddishFerret8 joined the game
+[21:16:34] [Server thread/INFO]: ReddishFerret8[/70.175.70.55:51457] logged in with entity id 3134 at ([world]-278.30000001192093, 55.5, 396.96644722544255)
+[21:22:06] [Server thread/WARN]: ReddishFerret8 moved too quickly! -2.2176865576191744,-0.32352912385572097,18.47086284722701
+[21:22:37] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-84 (MC: 1.20.1) ---
+[21:22:37] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[21:22:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:22:37] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[21:22:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:22:37] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[21:22:37] [Paper Watchdog Thread/ERROR]: 	PID: 32 | Suspended: false | Native: false | State: WAITING
+[21:22:37] [Paper Watchdog Thread/ERROR]: 	Stack:
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8/jdk.internal.misc.Unsafe.park(Native Method)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8/java.util.concurrent.locks.LockSupport.park(LockSupport.java:211)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:715)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8/java.util.concurrent.locks.AbstractQueuedSynchronizer.acquire(AbstractQueuedSynchronizer.java:938)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8/java.util.concurrent.locks.ReentrantLock$Sync.lock(ReentrantLock.java:153)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8/java.util.concurrent.locks.ReentrantLock.lock(ReentrantLock.java:322)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.io.RegionFileIOThread$ChunkDataController.computeForRegionFileIfLoaded(RegionFileIOThread.java:1156)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.io.RegionFileIOThread.doesRegionFileExist(RegionFileIOThread.java:827)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.io.RegionFileIOThread.loadDataAsyncInternal(RegionFileIOThread.java:897)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.io.RegionFileIOThread.loadDataAsync(RegionFileIOThread.java:807)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.GenericDataLoadTask$LoadDataFromDiskTask.schedule(GenericDataLoadTask.java:635)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.GenericDataLoadTask$LoadDataFromDiskTask.schedule(GenericDataLoadTask.java:623)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.GenericDataLoadTask.scheduleNow(GenericDataLoadTask.java:179)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.GenericDataLoadTask.schedule(GenericDataLoadTask.java:172)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.ChunkLoadTask.schedule(ChunkLoadTask.java:122)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.scheduling.ChunkTaskScheduler.scheduleChunkLoad(ChunkTaskScheduler.java:565)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.RegionizedPlayerChunkLoader$PlayerChunkLoaderData.updateQueues(RegionizedPlayerChunkLoader.java:750)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		io.papermc.paper.chunk.system.RegionizedPlayerChunkLoader.tick(RegionizedPlayerChunkLoader.java:244)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerChunkCache.tick(ServerChunkCache.java:498)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.level.ServerLevel.tick(ServerLevel.java:827)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1557)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:447)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1394)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda$4677/0x0000027f01a3bef0.run(Unknown Source)
+[21:22:37] [Paper Watchdog Thread/ERROR]: 		java.base@17.0.8/java.lang.Thread.run(Thread.java:833)
+[21:22:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:22:37] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[21:22:37] [Paper Watchdog Thread/ERROR]: ------------------------------
+[21:22:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9981ms or 199 ticks behind
+[21:22:37] [Server thread/WARN]: ReddishFerret8 moved too quickly! -2.116895712079895,-5.911814656139413,11.347782745938105
+[21:26:59] [User Authenticator #5/INFO]: UUID of player RuinedMango is 877a6738-9a5c-47b8-a781-dccb253ca725
+[21:27:00] [Server thread/INFO]: RuinedMango joined the game
+[21:27:00] [Server thread/INFO]: RuinedMango[/24.237.42.5:64642] logged in with entity id 4534 at ([world]-304.9563079972115, 65.0, 423.7958940196817)
+[21:28:14] [Server thread/INFO]: [Chunky] Task started in world for the square region centered at 0, 0 with radius 500.
+[21:28:14] [ForkJoinPool.commonPool-worker-38/INFO]: [Chunky] Task running for world. Processed: 87 chunks (2.06%), ETA: 0:00:04, Rate: 870.0 cps, Current: 15, 1
+[21:28:15] [ForkJoinPool.commonPool-worker-16/INFO]: [Chunky] Task running for world. Processed: 1076 chunks (25.47%), ETA: 0:00:03, Rate: 977.3 cps, Current: 32, -13
+[21:28:16] [ForkJoinPool.commonPool-worker-47/INFO]: [Chunky] Task running for world. Processed: 1914 chunks (45.30%), ETA: 0:00:02, Rate: 910.6 cps, Current: 27, -18
+[21:28:17] [ForkJoinPool.commonPool-worker-36/INFO]: [Chunky] Task running for world. Processed: 2765 chunks (65.44%), ETA: 0:00:01, Rate: 891.1 cps, Current: -7, -5
+[21:28:18] [ForkJoinPool.commonPool-worker-41/INFO]: [Chunky] Task finished for world. Processed: 4225 chunks (100.00%), Total time: 0:00:03
+[21:35:01] [Server thread/INFO]: RuinedMango has made the advancement [A Seedy Place]
+[21:36:56] [Server thread/INFO]: ReddishFerret8 has made the advancement [Cover Me with Diamonds]
+[21:39:23] [Server thread/INFO]: ReddishFerret8 has made the advancement [Hidden in the Depths]
+[22:16:42] [Server thread/WARN]: Failed to save player data for ReddishFerret8
+java.io.IOException: There is not enough space on the disk
+	at java.io.FileOutputStream.writeBytes(Native Method) ~[?:?]
+	at java.io.FileOutputStream.write(FileOutputStream.java:349) ~[?:?]
+	at java.util.zip.GZIPOutputStream.finish(GZIPOutputStream.java:172) ~[?:?]
+	at java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:244) ~[?:?]
+	at java.io.FilterOutputStream.close(FilterOutputStream.java:188) ~[?:?]
+	at java.io.FilterOutputStream.close(FilterOutputStream.java:188) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:152) ~[?:?]
+	at net.minecraft.nbt.NbtIo.writeCompressed(NbtIo.java:123) ~[?:?]
+	at net.minecraft.world.level.storage.PlayerDataStorage.save(PlayerDataStorage.java:40) ~[?:?]
+	at net.minecraft.server.players.PlayerList.save(PlayerList.java:567) ~[paper-1.20.1.jar:git-Paper-84]
+	at net.minecraft.server.players.PlayerList.lambda$saveAll$3(PlayerList.java:1218) ~[paper-1.20.1.jar:git-Paper-84]
+	at io.papermc.paper.util.MCUtil.ensureMain(MCUtil.java:379) ~[paper-1.20.1.jar:git-Paper-84]
+	at net.minecraft.server.players.PlayerList.saveAll(PlayerList.java:1211) ~[paper-1.20.1.jar:git-Paper-84]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1410) ~[paper-1.20.1.jar:git-Paper-84]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1171) ~[paper-1.20.1.jar:git-Paper-84]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:318) ~[paper-1.20.1.jar:git-Paper-84]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[22:20:01] [Server thread/INFO]: ReddishFerret8 has made the advancement [The Parrots and the Bats]
+[22:21:42] [Server thread/ERROR]: We were unable to save this crash report to disk.
+[22:21:42] [Server thread/INFO]: Stopping server
+[22:21:42] [Server thread/INFO]: [Chunky] Disabling Chunky v1.3.92
+[22:21:42] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.1.2-SNAPSHOT
+[22:21:42] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[22:21:42] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
